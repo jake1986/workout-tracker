@@ -16,3 +16,10 @@ View multiple the combined weight of multiple exercises on the stats page.
 ## Installation
 $ npm i
 
+## Link to Walkthrough of Functionality of App
+
+https://gitduck.com/watch/5eecfccd9d40c00b22fcd9a4
+
+## Questions
+
+jake.rhoads@gmail.com 
