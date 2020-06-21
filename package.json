@@ -1,10 +1,11 @@
 {
   "name": "workout-tracker",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This app is a  workout tracker using Mongo DB, Mongoose, and Express. It allows the user to create daily workouts, view them, track workouts by name, type, weight, reps, sets, and duration of exercise.",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
