@@ -18,7 +18,7 @@ $ npm i
 
 ## Link to Walkthrough of Functionality of App
 
-https://gitduck.com/watch/5eecfccd9d40c00b22fcd9a4
+hhttps://gitduck.com/watch/5eeed3144892af14dcd3218c
 
 ## Link to App Deployed on Heroku
 
