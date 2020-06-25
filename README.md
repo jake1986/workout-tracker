@@ -26,6 +26,9 @@ https://infinite-lowlands-86066.herokuapp.com/
 
 ## Deployed Repo
 
+ https://jake1986.github.io/workout-tracker/
+ 
+ 
 ## Questions
 
 jake.rhoads@gmail.com 
